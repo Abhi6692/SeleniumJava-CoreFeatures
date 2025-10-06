@@ -1,0 +1,5 @@
+1. Created a Maven Project 
+2. Added Selenium-Java Dependency
+3. Added TestNG Dependency
+4. Downloaded the Chrome Driver as per my Systems chrome browser version. I have put the Chrome Driver Folder in 
+this project only - NOT REQUIRED ANY MORE
